@@ -6,19 +6,19 @@
       "value": "nonprod"
     },
     "postgreSQLServerName": {
-      "value": "adnan-dbsrv-dev"
+      "value": "adnanb-dbsrv-dev"
     },
     "postgreSQLDatabaseName": {
-      "value": "adnan-db-dev"
+      "value": "adnanb-db-dev"
     },
     "appServicePlanName": {
-      "value": "adnan-asp-dev"
+      "value": "adnanb-asp-dev"
     },
     "appServiceAPIAppName": {
-      "value": "adnan-be-dev"
+      "value": "adnanb-be-dev"
     },
     "appServiceAppName": {
-      "value": "adnan-fe-dev"
+      "value": "adnanb-fe-dev"
     },
     "location": {
       "value": "France Central"
