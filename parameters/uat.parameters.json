@@ -6,25 +6,25 @@
       "value": "prod"
     },
     "postgreSQLServerName": {
-      "value": "adnanb-dbsrv-uat"
+      "value": "adnanbh-dbsrv-uat"
     },
     "postgreSQLDatabaseName": {
-      "value": "adnanb-db-uat"
+      "value": "adnanbh-db-uat"
     },
     "appServicePlanName": {
-      "value": "adnanb-asp-uat"
+      "value": "adnanbh-asp-uat"
     },
     "appServiceAPIAppName": {
-      "value": "adnanb-be-uat"
+      "value": "adnanbh-be-uat"
     },
     "appServiceAppName": {
-      "value": "adnanb-fe-uat"
+      "value": "adnanbh-fe-uat"
     },
     "azureMonitorName": {
-      "value": "adnanb-am-uat"
+      "value": "adnanbh-am-uat"
     },
     "appInsightsName": {
-      "value": "adnanb-ai-uat"
+      "value": "adnanbh-ai-uat"
     },
     "location": {
       "value": "France Central"
