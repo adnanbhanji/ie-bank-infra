@@ -20,6 +20,12 @@
     "appServiceAppName": {
       "value": "adnanb-fe-dev"
     },
+    "azureMonitorName": {
+      "value": "adnanb-am-dev"
+    },
+    "appInsightsName": {
+      "value": "adnanb-ai-dev"
+    },
     "location": {
       "value": "France Central"
     }
