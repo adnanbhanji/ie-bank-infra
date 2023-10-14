@@ -26,6 +26,12 @@ jobs:
     needs: build
     environment:
       name: "Development"
+    env:
+      ENV: dev
+      DBHOST: adnanbh-dbsrv-dev.postgres.database.azure.com
+      DBNAME: adnanbh-db-dev
+      FLASK_APP: app.py
+      FLASK_DEBUG: 1
 
     steps:
       # Checkout code
