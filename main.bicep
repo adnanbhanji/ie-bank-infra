@@ -3,6 +3,7 @@
   'nonprod'
   'prod'
 ])
+
 param environmentType string = 'nonprod'
 @sys.description('The PostgreSQL Server name')
 @minLength(3)
@@ -111,7 +112,6 @@ module appService 'modules/app-service.bicep' = {
 }
 
 output appServiceAppHostName string = appService.outputs.appServiceAppHostName
-
 
 resource azureMonitor 'Microsoft.OperationalInsights/workspaces@2020-08-01' = {
   name: azureMonitorName
