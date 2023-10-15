@@ -6,25 +6,25 @@
       "value": "nonprod"
     },
     "postgreSQLServerName": {
-      "value": "adnanbh-dbsrv-dev"
+      "value": "adub-dbsrv-dev"
     },
     "postgreSQLDatabaseName": {
-      "value": "adnanbh-db-dev"
+      "value": "adub-db-dev"
     },
     "appServicePlanName": {
-      "value": "adnanbh-asp-dev"
+      "value": "adub-asp-dev"
     },
     "appServiceAPIAppName": {
-      "value": "adnanbh-be-dev"
+      "value": "adub-be-dev"
     },
     "appServiceAppName": {
-      "value": "adnanbh-fe-dev"
+      "value": "adub-fe-dev"
     },
     "azureMonitorName": {
-      "value": "adnanbh-am-dev"
+      "value": "adub-am-dev"
     },
     "appInsightsName": {
-      "value": "adnanbh-ai-dev"
+      "value": "adub-ai-dev"
     },
     "location": {
       "value": "France Central"
